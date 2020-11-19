@@ -1,5 +1,5 @@
 # discordjs-user-info
-Tool for requesting user information form the Discord API using a bot key and user ID
+Tool for requesting user information from the Discord API using a bot key and user ID
 # Requirements
 ## npm installed (https://www.npmjs.com/)
 
